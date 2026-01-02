@@ -25,7 +25,7 @@ The project establishes familiarity with normal device behavior, gateway interac
 A comparative analysis of network behavior when a device is idle versus actively used.  
 This project highlights how traffic patterns change based on user interaction, emphasizing the role of context and timing in defensive analysis.
 
-🔗 https://github.com/USERNAME/idle-vs-usage
+🔗 [https://github.com/USERNAME/idle-vs-usage](https://github.com/MohamedAmineAlhiane/Idle.vs.Usage)
 
 ---
 
@@ -33,7 +33,8 @@ This project highlights how traffic patterns change based on user interaction, e
 This project focuses on establishing a baseline of normal network behavior over time and comparing it against periods of increased activity.  
 It demonstrates how deviations from baseline conditions can be identified and interpreted without assuming malicious intent.
 
-🔗 https://github.com/USERNAME/baseline-vs-active-behavior
+🔗 [https://github.com/USERNAME/baseline-vs-active-behavior
+](https://github.com/MohamedAmineAlhiane/Baseline.vs.Active.Behavior)
 
 ---
 
@@ -48,7 +49,7 @@ The project explores how the gateway’s predictable, rule-based behavior can se
 ### 5. MITM Detection (Theory-Only)
 A defensive, theory-based project explaining how Man-in-the-Middle (MITM) attacks can be suspected through behavioral indicators such as timing anomalies, baseline deviations, gateway behavior changes, and protocol instability — without executing any active attack.
 
-🔗 https://github.com/USERNAME/mitm-detection-theory
+🔗 [https://github.com/USERNAME/mitm-detection-theory](https://github.com/MohamedAmineAlhiane/MITM-Detection-Theory-Only-Defensive-Perspective-)
 
 ---
 
