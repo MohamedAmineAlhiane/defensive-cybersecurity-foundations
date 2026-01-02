@@ -1,2 +1,4 @@
-# defensive-cybersecurity-foundations
-A structured collection of defensive network analysis projects focused on understanding baseline behavior, anomaly detection, and MITM reasoning through ethical, theory-driven analysis.
+
+## Ethical Framework
+All projects in this series were conducted on privately owned networks using passive observation only.  
+No attacks, traffic interception, or system manipulation were performed. The focus throughout is educational, ethical, and defensive.
