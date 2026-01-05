@@ -61,6 +61,11 @@ A defensive, theory-based project explaining how Man-in-the-Middle (MITM) attack
 - Ethical and non-intrusive security analysis  
 - Technical documentation and structured reporting  
 
+Who This Repository Is For
+- Blue Team beginners
+- SOC analysts
+- Defensive security learners
+
 ---
 
 ## Ethical Framework
