@@ -61,10 +61,18 @@ A defensive, theory-based project explaining how Man-in-the-Middle (MITM) attack
 - Ethical and non-intrusive security analysis  
 - Technical documentation and structured reporting  
 
-Who This Repository Is For
+## Who This Repository Is For
 - Blue Team beginners
 - SOC analysts
 - Defensive security learners
+
+## Related Applied Project
+Behavior-Based Web Application Firewall (WAF)
+
+This project represents an applied implementation of behavioral analysis concepts
+introduced in the network analysis labs, translated into a web application security context.
+
+🔗 https://github.com/MohamedAmineAlhiane/Behavior-Based.Web.Application-Firewall-WAF
 
 ---
 
